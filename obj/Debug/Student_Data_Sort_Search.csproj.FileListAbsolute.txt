@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\bin\Debug\Student_Data_Sort_Search.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\bin\Debug\Student_Data_Sort_Search.exe
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\bin\Debug\Student_Data_Sort_Search.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\obj\Debug\Student_Data_Sort_Search.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\obj\Debug\Student_Data_Sort_Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\obj\Debug\Student_Data_Sort_Search.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\obj\Debug\Student_Data_Sort_Search.exe
+C:\Users\KIIT\Desktop\Git Exercise\Practice_Projects\Student_Data_Sort_Search\Student_Data_Sort_Search\obj\Debug\Student_Data_Sort_Search.pdb
